@@ -2,3 +2,4 @@ pandas
 numpy
 scikit-learn
 pycaret
+scipy==1.13
